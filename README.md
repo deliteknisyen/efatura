@@ -1,15 +1,5 @@
 # 🧾 eFatura
 
-Bu kütüphane, PHP aracılığıyla eArşiv üzerinden fatura oluşturma, düzenleme, imzalama gibi işlemleri yapabilmenize olanak sağlar. Tamamen ücretsizdir ve aktif olarak geliştirilmektedir. 
-
-[![Latest Version on Packagist](https://img.shields.io/packagist/v/furkankadioglu/efatura.svg?style=flat-square)](https://img.shields.io/packagist/v/furkankadioglu/efatura.svg?style=flat-square)
-![](https://github.com/furkankadioglu/efatura/workflows/Check%20Tests/badge.svg?branch=master)
-[![Total Downloads](https://img.shields.io/packagist/dt/furkankadioglu/efatura.svg?style=flat-square)](https://packagist.org/packages/furkankadioglu/efatura)
-[![License](https://poser.pugx.org/furkankadioglu/efatura/license.svg)](https://packagist.org/packages/furkankadioglu/efatura)
-[![Open issues](https://img.shields.io/github/issues-raw/furkankadioglu/efatura.svg)](https://github.com/furkankadioglu/efatura/issues)
-[![Open PR](https://img.shields.io/github/issues-pr-raw/furkankadioglu/efatura.svg)](https://github.com/furkankadioglu/efatura/pulls)
-[![GitHub stars](https://img.shields.io/github/stars/furkankadioglu/efatura.svg)](https://github.com/furkankadioglu/efatura/stargazers)
-[![GitHub forks](https://img.shields.io/github/forks/furkankadioglu/efatura.svg)](https://github.com/furkankadioglu/efatura/network/members)
 
 ### 🚩Kurulum
 
@@ -23,7 +13,7 @@ https://earsivportaltest.efatura.gov.tr/login.jsp
 
 **Paket Kurulumu:**
 
-    composer require furkankadioglu/efatura
+    composer require deliteknisyen/efatura
 
 
 ### 🚩Özellikler
